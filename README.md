@@ -33,7 +33,8 @@ Clicks
 Spend
 Conversions
 Age & Gender Segmentation
-📊 Dashboard Components
+📊 Dashboard Components:
+
 🔑 KPI Cards (Campaign Snapshot)
 📢 Total Impressions
 🖱️ Total Clicks
@@ -43,7 +44,8 @@ Age & Gender Segmentation
 🔁 Return on Investment (ROI %)
 Provides an instant overview of ad campaign effectiveness.
 
-⚙️ Campaign Efficiency: Spend vs Clicks
+⚙️ Campaign Efficiency:
+Spend vs Clicks
 Visual: Line + Column Combo Chart
 X-axis: Campaign ID
 Columns: Total Clicks
@@ -51,24 +53,28 @@ Line: Total Spend
 Shows how efficiently each campaign converts budget into clicks.
 
 🏆 Top Ads by User Engagement
+
 Visual: Horizontal Bar Chart
 X-axis: Total Clicks
 Y-axis: Ad ID
 Identifies ads generating the highest user engagement.
 
 👥 Gender Performance Analysis
+
 Visual: Donut Chart
 Legend: Gender (Male / Female)
 Values: Total Conversions
 Shows conversion contribution by gender.
 
 📊 CTR by Age Group
+
 Visual: Column Chart
 X-axis: Age Group
 Y-axis: CTR (%)
 Highlights which age segments respond best to ads.
 
 🔄 Spend vs Conversions
+
 Visual: Scatter Chart
 X-axis: Total Spend
 Y-axis: Total Conversions
@@ -76,6 +82,7 @@ Legend: Campaign ID
 Evaluates how effectively ad spend converts into actions.
 
 🎛️ Interactive Filters (Slicers)
+
 Date Range
 Campaign ID
 Age Group
@@ -83,12 +90,14 @@ Gender
 Enables dynamic analysis across campaigns and demographics.
 
 💡 Key Insights
+
 Campaign 1178 generated the highest conversions with efficient spending.
 Age group 45–49 recorded the highest CTR, indicating strong engagement.
 Male users contributed the majority of conversions.
 Some campaigns showed high spend but low conversions, indicating optimization opportunities.
 
 🚀 Skills Gained
+
 Marketing Analytics Fundamentals
 Campaign Performance Evaluation
 KPI Calculation (CTR, CPC, ROI)
@@ -97,4 +106,5 @@ Interactive Dashboard Design
 Business Storytelling with Data
 
 📌 Project Outcome
+
 ✔ Built a professional marketing analytics dashboard ✔ Gained real-world exposure to ad campaign evaluation ✔ Delivered actionable insights for business decision-making
